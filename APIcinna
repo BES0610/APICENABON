@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1",
+        "src": "",
+        "Flavor": "Oreo nuttella",
+        "Price": "10",
+        "description": "WITHOUT INSIDE SAUCE "
+    },
+    {
+        "id": "2",
+        "src": "",
+        "Flavor": "Chocolate milk Oreo",
+        "Price": "10",
+        "description": "WITHOUT INSIDE SAUCE "
+    },
+    {
+        "id": "3",
+        "src": "",
+        "Flavor": "LOUTS",
+        "Price": "10",
+        "description": "WITHOUT INSIDE SAUCE "
+    },
+    {
+        "id": "4",
+        "src": "" ,
+        "Flavor": "Oreo with chocolate milk",
+        "Price": "10",
+        "description": "WITHOUT INSIDE SAUCE "
+    },
+    {
+        "id": "5",
+        "src": "",
+        "Flavor": "CARAMEL",
+        "Price": "10",
+        "description": "WITHOUT INSIDE SAUCE "
+    },
+    {
+        "id": "6",
+        "src": "",
+        "Flavor": "RED BERRY AND BLACK BERRY",
+        "Price": "10",
+        "description": "WITHOUT INSIDE SAUCE "
+    },
+    {
+        "id": "7",
+        "src": "",
+        "Flavor": "PRICKLY PEAR",
+        "Price": "10",
+        "description": "WITHOUT INSIDE SAUCE "
+    },
+    {
+        "id": "8",
+        "src": "",
+        "Flavor": "WATERMELON",
+        "Price": "10",
+        "description": "WITHOUT INSIDE SAUCE "
+    }
+]
